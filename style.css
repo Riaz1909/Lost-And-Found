@@ -1,0 +1,134 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    color: #222;
+}
+
+header {
+    background: #1976d2;
+    color: #fff;
+    padding: 2rem 1rem 1rem 1rem;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+}
+
+.subtitle {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+}
+
+nav {
+    margin-top: 1rem;
+}
+
+.nav-btn {
+    display: inline-block;
+    margin: 0 0.5rem;
+    padding: 0.5rem 1.2rem;
+    background: #fff;
+    color: #1976d2;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background 0.2s, color 0.2s;
+}
+
+.nav-btn:hover {
+    background: #1565c0;
+    color: #fff;
+}
+
+main {
+    max-width: 600px;
+    margin: 2rem auto;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    padding: 2rem;
+}
+
+.hero {
+    text-align: center;
+}
+
+.cta-buttons {
+    margin-top: 2rem;
+}
+
+.cta-btn {
+    display: inline-block;
+    margin: 0 1rem;
+    padding: 0.7rem 2rem;
+    background: #1976d2;
+    color: #fff;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 600;
+    transition: background 0.2s;
+}
+
+.cta-btn:hover {
+    background: #1565c0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+input[type="text"], textarea {
+    padding: 0.7rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+button[type="submit"] {
+    background: #1976d2;
+    color: #fff;
+    border: none;
+    padding: 0.7rem 0;
+    border-radius: 20px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+button[type="submit"]:hover {
+    background: #1565c0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: #f1f8ff;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(25, 118, 210, 0.05);
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #e3eafc;
+    color: #1976d2;
+    margin-top: 2rem;
+    border-top: 1px solid #bbdefb;
+}
