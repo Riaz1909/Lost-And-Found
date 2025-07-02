@@ -1,6 +1,6 @@
 # 🔍 Lost & Found Web App
 
-**Live Site:** [Click Here to Visit]()
+**Live Site:** [Click Here to Visit](https://riaz1909.github.io/Lost-And-Found/)**
 
 ## 📌 Overview
 
@@ -37,8 +37,8 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/lost-and-found-app.git
-
-   📂 Project Structure
+''
+📂 Project Structure
 lost-and-found/
 ├── index.html         # Home page
 ├── lost.html          # Report Lost Item
