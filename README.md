@@ -1,6 +1,8 @@
 # 🔍 Lost & Found Web App
 
-**Live Site:** [Click Here to Visit](https://riaz1909.github.io/Lost-And-Found)**
+**🔗 Live View:** [https://riaz1909.github.io/Lost-And-Found/](https://riaz1909.github.io/Lost-And-Found/)
+
+---
 
 ## 📌 Overview
 
